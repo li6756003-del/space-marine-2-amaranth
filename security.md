@@ -189,4 +189,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Warhammer 40,000: Space Marine 2 · Updated 2026-11-26 · Shared under the MIT License*
+*Warhammer 40,000: Space Marine 2 · Updated 2026-11-27 · Shared under the MIT License*
